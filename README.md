@@ -42,9 +42,9 @@ Install Express.js, a web application framework for Node.js.
 
 Run the following command in your terminal:
 
-'''
+```
 npm install express
-'''
+```
 
 ### MongoDB:
 
@@ -73,43 +73,62 @@ Navigate to the desired directory.
 
 Run the following command:
 
-'''
+```
 git clone https://github.com/Dharshan465/NM_ComplaintManagementSystem.git
-'''
+```
 
 **2.Install Dependencies:**
 
 Navigate into the cloned repository:
 
-'''
+```
 cd complaint-registery
-'''
+```
 
 Install frontend dependencies:
 
-'''
+```
 cd frontend
 npm install
-'''
+```
 
 Install backend dependencies:
 
-'''
+```
 cd ../backend
 npm install
-'''
+```
 
 **3.Start the Development Server:**
 
 Run the following command to start the server:
 
-'''
+```
 npm start
-'''
+```
 
 Access the application at <ins>http://localhost:3000.</ins>
 
 You have successfully set up and launched the Online Complaint Registration and Management System on your local machine.You can procees now.
+
+
+### Screenshots
+
+![homepage](https://github.com/user-attachments/assets/0005553d-ae51-47fd-9277-97da0f8db95c)
+
+![complaint registration page](https://github.com/user-attachments/assets/919d9f9b-7da0-4447-b8ba-4ff7487d7c80)
+
+![chat function inside assigned complaint](https://github.com/user-attachments/assets/ba8305a4-0d33-4a48-8b45-74443cc006a1)
+
+![agent home page](https://github.com/user-attachments/assets/14ab3fa8-7b81-43cd-8753-834344d34ab0)
+
+![admin dashboard (user complaints)](https://github.com/user-attachments/assets/be4468fe-6b3b-4423-8fe7-e3a94bfe0816)
+
+![mapping user complaint to agent](https://github.com/user-attachments/assets/bd45aa3c-eff2-450b-88e9-eb49fb771d61)
+
+![mail sent to admin after complaint registration](https://github.com/user-attachments/assets/46b3818c-252b-4ab2-9acd-ab9cfb9fe50b)
+
+![mail sent to agent after mapping complaint](https://github.com/user-attachments/assets/f8e8580f-3b9b-4eff-9c3a-29fd06ed8704)
 
 
 
